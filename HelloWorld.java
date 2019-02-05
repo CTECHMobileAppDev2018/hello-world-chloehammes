@@ -6,6 +6,6 @@ class Main {
   public static void main(String[] args) {
   
     // Put your code here that prints out "Hello, world!"
-    
+    Systen.out.println("Hello World!");
   }
 }
